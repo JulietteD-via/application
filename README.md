@@ -3,7 +3,7 @@
 Video presentation
 https://youtu.be/n-ZqOmfrKAY
 
-## Application for identifying and caring for plants
+## Application for identifying and learning about plants
 
 The user will be able to take a picture and identify the plant.
 To access a page describing the plant, its name, its needs or where it comes from.
@@ -31,3 +31,7 @@ To mark some plants as favourites to access their data more easily.
 
 Unfortunately, the API providing a plant database with pictures, Trefle.io, was archived on May 3rd.
 I couldn't find an other open-access API offering the same features.
+
+https://github.com/treflehq/trefle-api
+
+The visual recognition API is not supported before Java 9
