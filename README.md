@@ -35,3 +35,9 @@ I couldn't find an other open-access API offering the same features.
 https://github.com/treflehq/trefle-api
 
 The visual recognition API is not supported before Java 9
+
+## References
+
+https://developer.android.com/training/camera/photobasics
+
+https://github.com/Plant-id/Plant-id-API
