@@ -1,4 +1,7 @@
-# application
+# CAMelia
+
+Video presentation
+https://youtu.be/n-ZqOmfrKAY
 
 ## Application for identifying and caring for plants
 
@@ -23,3 +26,8 @@ To mark some plants as favourites to access their data more easily.
 * W   
   * A calendar to mark when to plant seeds during the year
   * Include recipes for the plant
+
+## Implementation
+
+Unfortunately, the API providing a plant database with pictures, Trefle.io, was archived on May 3rd.
+I couldn't find an other open-access API offering the same features.
