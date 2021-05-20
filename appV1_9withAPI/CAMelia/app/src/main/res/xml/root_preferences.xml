@@ -1,0 +1,32 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="root_preferences">
+
+    <PreferenceCategory app:title="@string/theme_header">
+        <ListPreference
+            app:key="theme"
+            app:title="@string/theme_header"
+            app:entries="@array/pref_theme_entries"
+            app:entryValues="@array/pref_theme_values" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/language_header">
+
+        <DropDownPreference
+            app:key="language"
+            app:title="@string/language_header"
+            app:entries="@array/pref_language_entries"
+            app:entryValues="@array/pref_language_values" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/sync_header">
+
+        <SwitchPreferenceCompat
+            app:key="sync"
+            app:title="Download favorited plants" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

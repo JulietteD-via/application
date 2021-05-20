@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources name="da">
+    <string name="app_name">CAMelia</string>
+    <string name="title_home">Hjem</string>
+    <string name="title_search">Søg</string>
+    <string name="title_camera">Kamera</string>
+    <string name="title_plants">Mine planter</string>
+    <string name="title_settings">Indstillinger</string>
+    <string name="language_header">Sprog</string>
+    <string name="theme_header">Tema</string>
+    <string name="light_theme">Lys</string>
+    <string name="dark_theme">Mörkt</string>
+    <string name="btn_picture">Tag et billede</string>
+</resources>

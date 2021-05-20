@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CAMelia</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_plants">My plants</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="theme_header">Theme</string>
+    <string name="language_header">Language</string>
+
+    <!-- Theme Preferences -->
+    <string name="light_theme">Light theme</string>
+    <string name="dark_theme">Dark Theme</string>
+
+    <string name="search_hint">What plant are you looking for ?</string>
+    <string name="sync_header">Store local data</string>
+    <string name="btn_picture">Take a picture</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources name="fr">
+    <string name="app_name">CAMelia</string>
+    <string name="title_home">Accueil</string>
+    <string name="title_search">Recherche</string>
+    <string name="title_camera">Appareil photo</string>
+    <string name="title_plants">Mes plantes</string>
+    <string name="title_settings">Préférences</string>
+    <string name="light_theme">Thème clair</string>
+    <string name="dark_theme">Thème sombre</string>
+    <string name="theme_header">Thème</string>
+    <string name="language_header">Langue</string>
+    <string name="btn_picture">Prendre une photo</string>
+</resources>
